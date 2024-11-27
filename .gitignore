@@ -1,0 +1,4 @@
+gizli.txt
+sakli adı içinde olan bütün dosyaları saklar
+orhan.* bütün orhan isimli dosyaları saklar
+*.html bütün html uzantılı dosyaları saklar
