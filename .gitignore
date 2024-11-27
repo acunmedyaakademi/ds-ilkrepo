@@ -1,4 +1,6 @@
 gizli.txt
-sakli adı içinde olan bütün dosyaları saklar
-orhan.* bütün orhan isimli dosyaları saklar
-*.html bütün html uzantılı dosyaları saklar
+sakli adı içinde olan bütün dosyaları saklar.
+orhan.* bütün orhan isimli dosyaları saklar.
+*.html bütün html uzantılı dosyaları saklar.
+git commit -m "" commite isim ekleme.
+git restore yaptığımız değişikliği siler.
