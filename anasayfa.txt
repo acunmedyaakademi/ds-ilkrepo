@@ -1,2 +1,3 @@
 anasayfa benim hakkımda bilgilere erişebilirsiniz
 yakında yaptığım çalışmaları buraya yükleyeceğim 
+bugün github?
